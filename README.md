@@ -25,7 +25,7 @@
             <a href="#">Project 4</a>
             <a href="#">Project 5</a>
             <h2>Contact</h2>
-            <p>vishnu.bhagwat007@gmail.com</p>
+            <button><a href="https://rogue-wild.github.io/New-CV/">Click Me</a></button>
         </div>
     </div>
 </body>
