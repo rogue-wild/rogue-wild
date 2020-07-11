@@ -2,7 +2,7 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <p><img src="https://image.flaticon.com/icons/svg/74/74873.svg" alt="" style="width: 20%;"></p>
+            <p><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/209/male-technologist_1f468-200d-1f4bb.png" alt=""></p>
             <h2>Vishnu Bhagwat</h2>
             <p>Delhi, India.</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
