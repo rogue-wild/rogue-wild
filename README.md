@@ -18,12 +18,9 @@
             </ul></p>
             <h2>Projects</h2>
             <a href="#">Project 1</a>
-            <a href="#">Project 2</a>
-            <a href="#">Project 3</a>
-            <a href="#">Project 4</a>
-            <a href="#">Project 5</a>
+        <a href="#">Project 2</a>
             <h2>Contact</h2>
-            <button><a href="https://rogue-wild.github.io/New-CV/">Click Me</a></button>
+            <button><a href="https://rogue-wild.github.io/New-CV/">Visit my Website</a></button>
         </div>
     </div>
 </body>
