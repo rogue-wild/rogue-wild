@@ -8,8 +8,6 @@
             <a href="#"><i class="fab fa-github"></i></a>
         </div>
         <div class="section-2">
-            <h2>About</h2>
-            <p>I'm an under-graduate student, studying Computer Science in GGSIPU. I'm also a Technology Enthusiast who greatly admires open source software development.</p>
             <h2>Skills</h2>
             <p><ul>
                 <li>Python</li>
