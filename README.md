@@ -1,12 +1,4 @@
-<body>
-    <div class="grid-2">
-        <div class="section-1">
-            <i class="fas fa-code fa-5x white"></i>
-            <h2>Vishnu Bhagwat👨‍💻</h2>
-            <p>Delhi, India.</p>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-github"></i></a>
-        </div>
+
         <div class="section-2">
             <h2>Skills</h2>
             <p><ul>
@@ -20,6 +12,4 @@
             <h2>Contact</h2>
             <button><a href="https://rogue-wild.github.io/New-CV/">Visit my Website</a></button>
         </div>
-    </div>
-</body>
-
+  
