@@ -3,19 +3,19 @@
 >![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=rogue-wild&show_icons=true&line_height=27&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=javascript,html,css&show_icons=true&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)](https://github.com/rogue-wild/github-readme-stats)
 
-## About me
->Vishnu Bhagwat • Indian • Computer Science undergraduate 
+>## About me...
+Vishnu Bhagwat • Indian • Computer Science undergraduate 
 
-## >I like these technologies
+>## I like these technologies...
 Python • Rust • Go • JavaScript• C++ • AI/ML • Q# • C
 
->## I love
+>## I love...
 Astronomy • Learning, exploring and challenging myself • Design, customization and colors • Games and animations • Open-Source
 
-## <img height="30" src="https://raw.githubusercontent.com/rogue-wild/rogue-wild/master/assets/soulgem-kyoko.gif"/> On my free time I like to
+>## On my free time I like to...
 Watch anime • Reading Books • Code • Listen to music • Play games
 
-## <img height="30" src="https://raw.githubusercontent.com/rogue-wild/rogue-wild/master/assets/soulgem-sayaka.gif"/> Contacts
+>## Contacts
 <span><a href="https://twitter.com/"><img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>  <a href="https://www.linkedin.com/in/"><img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://www.instagram.com/"><img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></span>
 <br>
 ## 
