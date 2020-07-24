@@ -4,13 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=javascript,html,css&show_icons=true&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)](https://github.com/rogue-wild/github-readme-stats)
 #
 ## About me...
->Technology Enthusiast • Indian • Computer Science undergraduate 
+>Technophile • Indian • Computer Science undergraduate 
 
 ## I like these technologies...
 >Python • Rust • Go • JavaScript• C++ • AI/ML • Q# • C
 
 ## I love...
->Astronomy • Learning, exploring and challenging myself • Design, customization and colors • Games and animations • Open-Source
+>Astronomy • Learning, exploring and challenging myself • Design, customization and colors • Games and animations • Open-Source 
 
 ## On my free time I like to...
 >Watch anime • Reading Books • Code • Listen to music • Play games
