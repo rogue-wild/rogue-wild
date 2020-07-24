@@ -7,7 +7,7 @@
 >Technophile • Indian • Computer Science undergraduate 
 
 ## I like these technologies...
->Python • Rust • Go • JavaScript• C++ • AI/ML • Q# • C
+>Python • Rust • Go • JavaScript • C++ • AI/ML • Q# • C
 
 ## I love...
 >Astronomy • Learning, exploring and challenging myself • Design, customization and colors • Games and animations • Open-Source 
