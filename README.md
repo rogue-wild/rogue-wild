@@ -1,4 +1,5 @@
-![Hi, I'm Vishnu Bhagwat 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Coding](https://github.com/rogue-wild/rogue-wild/raw/master/assets/github.gif)
+<img width="745" alt="intro" src="https://user-images.githubusercontent.com/42809447/88397334-64c21c80-cde1-11ea-896c-017dcc4e7bc6.png">
+
 
 
 
