@@ -3,14 +3,13 @@
 >![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=rogue-wild&show_icons=true&line_height=27&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=javascript,html,css&show_icons=true&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)](https://github.com/rogue-wild/github-readme-stats)
 
-#
-## <img height="30" src="https://raw.githubusercontent.com/rogue-wild/rogue-wild/master/assets/soulgem-madoka.gif"/> About me
-Vishnu Bhagwat • Indian • Computer Science undergraduate 
+## About me
+>Vishnu Bhagwat • Indian • Computer Science undergraduate 
 
-## <img height="30" src="https://raw.githubusercontent.com/rogue-wild/rogue-wild/master/assets/soulgem-homura.gif"/> I like these technologies
+## >I like these technologies
 Python • Rust • Go • JavaScript• C++ • AI/ML • Q# • C
 
-## <img height="30" src="https://raw.githubusercontent.com/rogue-wild/rogue-wild/master/assets/soulgem-mami.gif"/> I love
+>## I love
 Astronomy • Learning, exploring and challenging myself • Design, customization and colors • Games and animations • Open-Source
 
 ## <img height="30" src="https://raw.githubusercontent.com/rogue-wild/rogue-wild/master/assets/soulgem-kyoko.gif"/> On my free time I like to
