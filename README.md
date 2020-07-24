@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=javascript,html,css&show_icons=true&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)](https://github.com/rogue-wild/github-readme-stats)
 #
 ## About me...
->Vishnu Bhagwat • Indian • Computer Science undergraduate 
+>Technology Enthusiast • Indian • Computer Science undergraduate 
 
 ## I like these technologies...
 >Python • Rust • Go • JavaScript• C++ • AI/ML • Q# • C
