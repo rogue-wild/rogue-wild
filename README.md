@@ -19,6 +19,4 @@
 <span><a href="https://twitter.com/"><img align="left" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111688.svg" /></a>  <a href="https://www.linkedin.com/in/"><img align="left" alt="Linkedin" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>  <a href="https://www.instagram.com/"><img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" /></a></span>
 <br>
 ## 
-<span><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='170"'></span>
-
-
+<span><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150"'></span>
