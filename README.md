@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sw-yx&show_icons=true) ![Profile views](https://gpvc.arturio.dev/sw-yx)   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a> 
