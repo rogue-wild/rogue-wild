@@ -1,7 +1,7 @@
 <img width="845" alt="intro" src="https://user-images.githubusercontent.com/42809447/88397334-64c21c80-cde1-11ea-896c-017dcc4e7bc6.png">
 
 ![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=rogue-wild&show_icons=true&title_color=000000&icon_color=03910a&text_color=525252&bg_color=d9f6f9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=javascript,html,css&show_icons=true&title_color=000000&icon_color=03910a&text_color=525252&bg_color=d9f6f9&line_height=27&v=5)](https://github.com/rogue-wild/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=javascript,html,css&show_icons=true&title_color=000000&icon_color=03910a&text_color=525252&bg_color=d9f6f9&line_height=20&v=5)](https://github.com/rogue-wild/github-readme-stats)
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
