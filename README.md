@@ -18,8 +18,8 @@ Watch anime • Reading Books • Code • Listen to music • Play games
 
 ## <img height="30" src="https://raw.githubusercontent.com/rogue-wild/rogue-wild/master/assets/soulgem-sayaka.gif"/> Contacts
 <p><a href="https://twitter.com/"><img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>  <a href="https://www.linkedin.com/in/"><img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://www.instagram.com/"><img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='160"'>
+
 #
-<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></P>
+<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='160"'></P>
 
 
