@@ -1,9 +1,9 @@
 <img width="845" alt="intro" src="https://user-images.githubusercontent.com/42809447/88397334-64c21c80-cde1-11ea-896c-017dcc4e7bc6.png">
 
-><center>
+<span><center>
 ![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=rogue-wild&show_icons=true&line_height=27&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=javascript,html,css&show_icons=true&title_color=03910a&icon_color=03910a&text_color=525252&bg_color=e3fffb)](https://github.com/rogue-wild/github-readme-stats)
-</center>
+</center></span>
 #
 ## I like these technologies...
 >Python • Rust • Go • JavaScript • C++ • AI/ML • Q# • C
