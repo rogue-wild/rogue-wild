@@ -1,7 +1,7 @@
 
-<span><img align='left' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'>
-<img align='center' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgxZTE3YjllZTdiZmRmYWJmNDAyYjU4NDE2ZDQwYjk4YmMyMzU4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/yIomjPheQvvbiF9v7A/giphy.gif' width='850'>
-<img align='right' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'></span>
+<h1 align="center" >
+<img align='center' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgxZTE3YjllZTdiZmRmYWJmNDAyYjU4NDE2ZDQwYjk4YmMyMzU4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/yIomjPheQvvbiF9v7A/giphy.gif'></h1>
+
  
 
 <h3 align="center">Languages and Tools:</h3>
@@ -13,7 +13,7 @@
 
 #
 
-<span><p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em ><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p></span>
+<span><p align="center"><img align='left' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'><em ><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img align='right' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'></p></span>
 
 #
 
