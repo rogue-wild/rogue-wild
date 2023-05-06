@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-<img align='center' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgxZTE3YjllZTdiZmRmYWJmNDAyYjU4NDE2ZDQwYjk4YmMyMzU4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/yIomjPheQvvbiF9v7A/giphy.gif'></h1>
+<img align='center' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgxZTE3YjllZTdiZmRmYWJmNDAyYjU4NDE2ZDQwYjk4YmMyMzU4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/yIomjPheQvvbiF9v7A/giphy.gif' width='600'></h1>
 
  
 
@@ -9,13 +9,12 @@
 
 #
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rogue-wild&show_icons=true&line_height=40&title_color=00c70a&icon_color=00c70a&text_color=ffffff&bg_color=041c01" alt="rogue-wild" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=html,css&show_icons=true&title_color=00c70a&icon_color=00c70a&text_color=ffffff&bg_color=041c01" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rogue-wild&show_icons=true&line_height=40&title_color=00c70a&icon_color=00c70a&text_color=ffffff&bg_color=041c01" alt="rogue-wild" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-wild&hide=html,css&show_icons=true&title_color=00c70a&icon_color=00c70a&text_color=ffffff&bg_color=041c01" /></p>
 
 #
 
-<span><p align="center"><img align='left' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'><em ><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img align='right' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'></p></span>
-
-#
+<span><p align="center"><img align='left' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'><em > I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</em><img align='right' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'></p></span>
 
 </span>
 <h3 align="center">Connect with me:</h3>
@@ -24,4 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnu-bhagwat-38a073185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-bhagwat-38a073185/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/roguewild" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/roguewild" height="30" width="40" /></a>
 </p>
+
+#
+
 <p align='center'><img align="center" src="https://komarev.com/ghpvc/?username=rogue-wild" alt="rogue-wild"/></p>
