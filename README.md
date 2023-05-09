@@ -14,7 +14,8 @@
 
 #
 
-<span><p align="center"><img align='left' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'><em > I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</em><img align='right' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='80'></p></span>
+<span><p align="center"><img align='left' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='70'><img align='right' src='https://media.giphy.com/media/gKU1n9WpYEcLmfIGVF/giphy.gif' width='70'></p></span>
+<p align="center"><em > I love connecting with different people so if you</em></p><p align="center"> <em>want to say hi, I'll be happy to meet you more!</em></p>
 
 </span>
 <h3 align="center">Connect with me:</h3>
