@@ -1,4 +1,4 @@
-
+<img src="https://github.com/rogue-wild/rogue-wild/blob/master/waves.svg">
 <span><p align="center"><img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VmMTkzM2E2MmM2YzU4OGFlNzNhY2ZiNjkzNTUxZDkxODQ3YmNlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/oOylMv2oLDxcxGzYn6/giphy.gif' width='120'>
 <img  src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgxZTE3YjllZTdiZmRmYWJmNDAyYjU4NDE2ZDQwYjk4YmMyMzU4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/yIomjPheQvvbiF9v7A/giphy.gif' width='600'><img  src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDliYTgzZGU4YTc2MjQwYTdhZjY0YjVhZmI3ZmJiMWRiZmFlMDI0OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/ksE9feSa2b4V2GYwY4/giphy.gif' width='100'></p></span>
 
